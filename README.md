@@ -1,4 +1,4 @@
-# index.html
+
 
 </head>
 <body>
@@ -9,7 +9,7 @@
     </tr>
     <tr>
         <td>Nama</td>
-        <td>Gibran Ahmad Alfarzi</td>
+        <td>Gibran Ahmad Alfarizi</td>
     </tr>
     <tr>
         <td>Tempat, Tanggal Lahir</td>
